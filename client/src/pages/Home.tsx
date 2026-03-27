@@ -1,7 +1,7 @@
 import React from 'react';
-import { Deck } from './components/Deck';
-import { Mixer } from './components/Mixer';
-import { PitchControl } from './components/PitchControl';
+import { Deck } from '../components/Deck';
+import { Mixer } from '../components/Mixer';
+import { PitchControl } from '../components/PitchControl';
 
 /**
  * Home Page - Main DJ Mixer Application
