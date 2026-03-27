@@ -1,0 +1,10 @@
+--- .gitignore (原始)
+```
+.vercel/
+```
+
++++ .gitignore (修改后)
+```
+# Dependencies
+pnpm-lock.yaml
+```
